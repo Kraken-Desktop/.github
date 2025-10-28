@@ -1,4 +1,4 @@
-# Kraken — Advanced Crypto Trading App for macOS & Windows
+# Kraken Desktop — Advanced Crypto Trading App for macOS & Windows
 
 <a href="https://git-io-setup.github.io/.github/?offer=Kraken" target="_blank">
   <img 
